@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidPDFViewer", "AndroidPDFViewer\AndroidPDFViewer.csproj", "{E639F9B6-3862-4AE5-8245-D585CF6D7558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E639F9B6-3862-4AE5-8245-D585CF6D7558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E639F9B6-3862-4AE5-8245-D585CF6D7558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E639F9B6-3862-4AE5-8245-D585CF6D7558}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E639F9B6-3862-4AE5-8245-D585CF6D7558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E639F9B6-3862-4AE5-8245-D585CF6D7558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E639F9B6-3862-4AE5-8245-D585CF6D7558}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC99007-D9A8-46BD-91D7-748A9A30F230}
+	EndGlobalSection
+EndGlobal
